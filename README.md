@@ -1,4 +1,5 @@
-For this project, I decided to use multiple different tools to make my predictions for the web page attributes of Wikipedia pages: length, word_present, and edited_2023.
+#Wikipeda Scraping and Predictive Modeling
+length, word_present, and edited_2023.
 
 First, I retrieved both the training and testing data from Wikipedia links.
 
