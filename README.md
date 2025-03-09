@@ -1,4 +1,4 @@
-# Wikipeda Scraping and Predictive Modeling
+# Wikipedia Scraping and Predictive Modeling
 #### Overview
 This project focuses on **predictive modeling** using WIkipedia data to analyze three key attributes: 
 1. **Length** -- Predicting the length of Wikipedia articles.
