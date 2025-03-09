@@ -1,5 +1,9 @@
-#Wikipeda Scraping and Predictive Modeling
-length, word_present, and edited_2023.
+# Wikipeda Scraping and Predictive Modeling
+#### Overview
+This project focuses on **predictive modeling** using WIkipedia data to analyze three key attributes: 
+1. **Length** -- Predicting the length of Wikipedia articles.
+2. ** Word Presence** -- Classifying whether a specific word is present in an article.
+3. **Edited in 2023** -- Predicting whether an article was edited in 2023. 
 
 First, I retrieved both the training and testing data from Wikipedia links.
 
